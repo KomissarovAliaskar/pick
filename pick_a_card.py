@@ -9,3 +9,8 @@ random_point = random.choice(values)
 random_sing = random.choice(suits)
 random_card = random_point,random_sing
 print(random_card)
+
+
+
+ def test():
+     pass
